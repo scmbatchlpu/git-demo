@@ -16,7 +16,7 @@
 ================================================================================
 
             ====================================================
-            Building The Apache Tomcat 9.0 Servlet/JSP Container
+            Building The Apache Tomcat 9.0 Servlet/JSP Container Demo
             ====================================================
 
 This project contains the source code for Tomcat 9.0, a container that
